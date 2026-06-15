@@ -1,7 +1,7 @@
 # LightFrameCollective
 
-Start Date : 15th may 2026<br>
-End Date : 17th (EOD) may 2026 
+Start Date : 15th june 2026<br>
+End Date : 17th (EOD) june 2026 
 
 QA - Parth/Shailesh
 
