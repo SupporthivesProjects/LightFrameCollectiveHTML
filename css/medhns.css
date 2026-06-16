@@ -239,19 +239,15 @@
 .social-btn {
     width: 100%;
     height: 56px;
-
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 12px;
-
     border-radius: 10px;
     text-decoration: none;
-
     font-family: "IBM Plex Sans";
     font-size: 16px;
     font-weight: 500;
-
     transition: 0.3s;
 }
 
@@ -299,20 +295,12 @@
     text-decoration: none;
 }
 
-/* =========================
-MODAL
-========================= */
-
 .confirmation-modal {
     border: none;
     border-radius: 0;
     background: transparent;
     width: 400px;
 }
-
-/* =========================
-CARD
-========================= */
 
 .confirmation-body {
     position: relative;
@@ -329,29 +317,18 @@ CARD
     border-radius: 2px;
 }
 
-/* =========================
-CLOSE
-========================= */
-
 .btn-close-modal {
     position: absolute;
     top: 8px;
     left: 50%;
     transform: translateX(-50%);
-
     border: 0;
     background: transparent;
-
     color: #666;
     font-size: 18px;
     line-height: 1;
-
     z-index: 2;
 }
-
-/* =========================
-LOGO
-========================= */
 
 .confirmation-logo {
     width: 70px;
@@ -359,39 +336,22 @@ LOGO
     margin-top: 10px;
 }
 
-/* =========================
-TITLE
-========================= */
-
 .confirmation-title {
     margin: 0;
-
     color: #4A4A4A;
     text-align: center;
-
     font-family: "Playfair Display";
     font-size: 32px;
     font-weight: 700;
     line-height: 1.1;
 }
 
-/* =========================
-BUTTON
-========================= */
-
 .confirmation-btn {
     width: 100%;
     height: 42px;
-
     border: none;
     border-radius: 50px;
-
-    background: linear-gradient(
-        90deg,
-        #c8b0ff 0%,
-        #9d72f8 100%
-    );
-
+    background: linear-gradient( 90deg, #c8b0ff 0%, #9d72f8 100%);
     color: #fff;
     font-size: 14px;
     font-weight: 600;
@@ -403,18 +363,15 @@ BUTTON
 
 .password-update-section {
     min-height: calc(100vh - 180px);
-
     display: flex;
     align-items: center;
     justify-content: center;
-
     background: #ffffff;
 }
 
 .password-update-wrapper {
     width: 100%;
     max-width: 420px;
-
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -454,10 +411,6 @@ BUTTON
     color: #fff;
 }
 
-/* =========================
-PASSWORD UPDATED MODAL
-========================= */
-
 .password-modal {
     border: 0;
     border-radius: 10px;
@@ -488,18 +441,10 @@ PASSWORD UPDATED MODAL
     z-index: 2;
 }
 
-/* =========================
-LOGO
-========================= */
-
 .password-modal-logo {
     width: 75px;
     margin-bottom: 24px;
 }
-
-/* =========================
-TITLE
-========================= */
 
 .password-modal-title {
     font-family: "Playfair Display", serif;
@@ -509,23 +454,12 @@ TITLE
     margin-bottom: 32px;
 }
 
-/* =========================
-BUTTON
-========================= */
-
 .password-modal-btn {
     width: 100%;
     height: 56px;
-
     border: 0;
     border-radius: 50px;
-
-    background: linear-gradient(
-        90deg,
-        #C7B0FF 0%,
-        #9D72F8 100%
-    );
-
+    background: linear-gradient(90deg, #C7B0FF 0%, #9D72F8 100%);
     color: #FFF;
     font-size: 16px;
     font-weight: 600;
@@ -534,10 +468,6 @@ BUTTON
 .password-modal-btn:hover {
     color: #FFF;
 }
-
-/* =========================
-RESPONSIVE FIXES
-========================= */
 
 @media (max-width: 991px) {
     .auth-section {
@@ -564,7 +494,6 @@ RESPONSIVE FIXES
         font-size: 28px;
     }
 
-    /* Fixed class targeting here */
     .right-box img {
         display: none;
     }
