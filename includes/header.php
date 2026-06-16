@@ -17,12 +17,9 @@
     <link rel="stylesheet" href="uiframe/css/slick-theme.css">
     <link rel="stylesheet" href="css/t_styles.css">
     <link rel="stylesheet" href="css/rstyle.css">
-<<<<<<< HEAD
     <link rel="stylesheet" href="css/sakch.css">
     <link rel="stylesheet" href="css/sakkdm.css">
     <link rel="stylesheet" href="css/medhns.css">
-=======
->>>>>>> dhiraj
     <link rel="stylesheet" href="css/dhiraj.css">
     <link rel="stylesheet" href="css/dhirajresponsive.css">
     <link rel="stylesheet" href="css/style.css">
