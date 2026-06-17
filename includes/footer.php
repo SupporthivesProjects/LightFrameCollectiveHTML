@@ -1,4 +1,3 @@
-
 <section class="evlated-section">
     <div class="container">
        <p>Elevate your projects with our premium imagery. <a href="#">Start now.</a></p>
@@ -17,19 +16,19 @@
                   <div class="footer-menu-list">
                      <ul>
                        <li>
-                         <a href="#">Browse</a>
+                         <a href="search.php">Browse</a>
                        </li>
                        <li>
-                         <a href="#">Pricing & Perks</a>
+                         <a href="pricing.php">Pricing & Perks</a>
                        </li>
                        <li>
-                         <a href="#">About Us</a>
+                         <a href="about.php">About Us</a>
                        </li>
                        <li>
-                         <a href="#">FAQ’s</a>
+                         <a href="faq.php">FAQ’s</a>
                        </li>
                        <li>
-                         <a href="#">Contact Us</a>
+                         <a href="contact_us.php">Contact Us</a>
                        </li>
                      </ul>
                   </div>
