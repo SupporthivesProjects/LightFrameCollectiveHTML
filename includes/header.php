@@ -56,53 +56,53 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav m-auto navbar-nav-mo">
                 <li class="nav-item">
-                  <a class="nav-link">My Account</a>
+                  <a class="nav-link" href="account.php">My Account</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link">Browse</a>
+                  <a class="nav-link" href="search.php">Browse</a>
                 </li>
                 <li class="nav-item dropdown  Categories-main">
-                  <a class="nav-link dropdown-toggle Categories-btn" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  <a class="nav-link dropdown-toggle Categories-btn" href="search.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                     Categories
                   </a>
                   <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="#">Business</a></li>
-                    <li><a class="dropdown-item" href="#">Technology</a></li>
-                    <li><a class="dropdown-item" href="#">Nature</a></li>
-                    <li><a class="dropdown-item" href="#">People</a></li>
-                    <li><a class="dropdown-item" href="#">Travel</a></li>
-                    <li><a class="dropdown-item" href="#">Health and Wellness</a></li>
-                    <li><a class="dropdown-item" href="#">Education</a></li>
-                    <li><a class="dropdown-item" href="#">Food and Drink</a></li>
-                    <li><a class="dropdown-item" href="#">Sports</a></li>
-                    <li><a class="dropdown-item" href="#">Fashion</a></li>
-                    <li><a class="dropdown-item" href="#">Technology</a></li>
-                    <li><a class="dropdown-item" href="#">Nature</a></li>
-                    <li><a class="dropdown-item" href="#">Business</a></li>
-                    <li><a class="dropdown-item" href="#">Technology</a></li>
-                    <li><a class="dropdown-item" href="#">Nature</a></li>
-                    <li><a class="dropdown-item" href="#">People</a></li>
-                    <li><a class="dropdown-item" href="#">Travel</a></li>
-                    <li><a class="dropdown-item" href="#">Health and Wellness</a></li>
-                    <li><a class="dropdown-item" href="#">Education</a></li>
-                    <li><a class="dropdown-item" href="#">Food and Drink</a></li>
-                    <li><a class="dropdown-item" href="#">Sports</a></li>
-                    <li><a class="dropdown-item" href="#">Fashion</a></li>
-                    <li><a class="dropdown-item" href="#">Technology</a></li>
-                    <li><a class="dropdown-item" href="#">Nature</a></li>
+                    <li><a class="dropdown-item" href="individual.php">Business</a></li>
+                    <li><a class="dropdown-item" href="individual.php">Technology</a></li>
+                    <li><a class="dropdown-item" href="individual.php">Nature</a></li>
+                    <li><a class="dropdown-item" href="individual.php">People</a></li>
+                    <li><a class="dropdown-item" href="individual.php">Travel</a></li>
+                    <li><a class="dropdown-item" href="individual.php">Health and Wellness</a></li>
+                    <li><a class="dropdown-item" href="individual.php">Education</a></li>
+                    <li><a class="dropdown-item" href="individual.php">Food and Drink</a></li>
+                    <li><a class="dropdown-item" href="individual.php">Sports</a></li>
+                    <li><a class="dropdown-item" href="individual.php">Fashion</a></li>
+                    <li><a class="dropdown-item" href="individual.php">Technology</a></li>
+                    <li><a class="dropdown-item" href="individual.php">Nature</a></li>
+                    <li><a class="dropdown-item" href="individual.php">Business</a></li>
+                    <li><a class="dropdown-item" href="individual.php">Technology</a></li>
+                    <li><a class="dropdown-item" href="individual.php">Nature</a></li>
+                    <li><a class="dropdown-item" href="individual.php">People</a></li>
+                    <li><a class="dropdown-item" href="individual.php">Travel</a></li>
+                    <li><a class="dropdown-item" href="individual.php">Health and Wellness</a></li>
+                    <li><a class="dropdown-item" href="individual.php">Education</a></li>
+                    <li><a class="dropdown-item" href="individual.php">Food and Drink</a></li>
+                    <li><a class="dropdown-item" href="individual.php">Sports</a></li>
+                    <li><a class="dropdown-item" href="individual.php">Fashion</a></li>
+                    <li><a class="dropdown-item" href="individual.php">Technology</a></li>
+                    <li><a class="dropdown-item" href="individual.php">Nature</a></li>
                   </ul>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Pricing & Perks</a>
+                  <a class="nav-link" href="pricing.php">Pricing & Perks</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">About</a>
+                  <a class="nav-link" href="about.php">About</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link">FAQ’s</a>
+                  <a class="nav-link" href="faq.php">FAQ’s</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Contact Us</a>
+                  <a class="nav-link" href="contact.php">Contact Us</a>
                 </li>
               </ul>
               <div class="d-flex right-side" >
@@ -119,7 +119,7 @@
                     <div class="user-img">
                       <img src="./img/user.svg" alt="" class="img-fluid">
                     </div>
-                    <a href="#" class="btn btn-purple d-lg-none d-md-none d-sm-block">Top up</a>
+                    <a href="checkout.php" class="btn btn-purple d-lg-none d-md-none d-sm-block">Top up</a>
                 </div>
               </div>
             </div>
