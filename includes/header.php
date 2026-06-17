@@ -39,7 +39,7 @@
           <div class="container">
             <div class="menu-logo">
                 <div class="menu-logo-mo">
-                    <a class="navbar-brand" href="#">
+                    <a class="navbar-brand" href="./index.php">
                     <img src="./img/logo.svg" alt="" class="img-fluid d-none d-md-none d-lg-block">
                     <img src="./img/logo-mo.svg" alt="" class="img-fluid d-lg-none d-md-block d-block">
                   </a>
@@ -96,7 +96,11 @@
                   <a class="nav-link" href="pricing.php">Pricing & Perks</a>
                 </li>
                 <li class="nav-item">
+<<<<<<< HEAD
                   <a class="nav-link" href="about.php">About</a>
+=======
+                  <a class="nav-link" href="./aboutus.php">About</a>
+>>>>>>> rahul
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="faq.php">FAQ’s</a>
