@@ -80,92 +80,144 @@
             <!-- Nature -->
             <div class="tab-pane fade show active" id="nature">
                 <div class="gallery-grid">
-                    <div class="item gallery_large">
+                    <div class="item gallery_large mobile_none">
                         <img src="./img/homegallery_img1.png" alt="">
                     </div>
-                    <div class="item gallery_small">
+                    <div class="item gallery_small mobile_none">
                         <img src="./img/homegallery_img2.png" alt="">
                     </div>
-                    <div class="item gallery_small">
+                    <div class="item gallery_small mobile_none">
                         <img src="./img/homegallery_img3.png" alt="">
                     </div>
-                    <div class="item gallery_small">
+                    <div class="item gallery_small mobile_none">
                         <img src="./img/homegallery_img4.png" alt="">
                     </div>
-                    <div class="item gallery_small">
+                    <div class="item gallery_small mobile_none">
                         <img src="./img/homegallery_img5.png" alt="">
                     </div>
-                    <div class="item gallery_large">
+                    <div class="item gallery_large mobile_none">
                         <img src="./img/homegallery_img6.png" alt="">
+                    </div>
+                    <!-- Mobile -->
+                    <div class="item desktop_none">
+                        <img src="./img/homegal_img1mob.png" alt="">
+                    </div>
+                    <div class="item desktop_none">
+                        <img src="./img/homegal_img2mob.png" alt="">
+                    </div>
+                    <div class="item desktop_none">
+                        <img src="./img/homegal_img3mob.png" alt="">
+                    </div>
+                    <div class="item desktop_none">
+                        <img src="./img/homegal_img4mob.png" alt="">
                     </div>
                 </div>
             </div>
             <!-- People -->
             <div class="tab-pane fade" id="people">
                 <div class="gallery-grid">
-                    <div class="item gallery_large">
+                    <div class="item gallery_large mobile_none">
                         <img src="./img/homegallery_img1.png" alt="">
                     </div>
-                    <div class="item gallery_small">
+                    <div class="item gallery_small mobile_none">
                         <img src="./img/homegallery_img2.png" alt="">
                     </div>
-                    <div class="item gallery_small">
+                    <div class="item gallery_small mobile_none">
                         <img src="./img/homegallery_img3.png" alt="">
                     </div>
-                    <div class="item gallery_small">
+                    <div class="item gallery_small mobile_none">
                         <img src="./img/homegallery_img4.png" alt="">
                     </div>
-                    <div class="item gallery_small">
+                    <div class="item gallery_small mobile_none">
                         <img src="./img/homegallery_img5.png" alt="">
                     </div>
-                    <div class="item gallery_large">
+                    <div class="item gallery_large mobile_none">
                         <img src="./img/homegallery_img6.png" alt="">
+                    </div>
+                    <!-- Mobile -->
+                    <div class="item desktop_none">
+                        <img src="./img/homegal_img1mob.png" alt="">
+                    </div>
+                    <div class="item desktop_none">
+                        <img src="./img/homegal_img2mob.png" alt="">
+                    </div>
+                    <div class="item desktop_none">
+                        <img src="./img/homegal_img3mob.png" alt="">
+                    </div>
+                    <div class="item desktop_none">
+                        <img src="./img/homegal_img4mob.png" alt="">
                     </div>
                 </div>
             </div>
             <!-- Tech -->
             <div class="tab-pane fade" id="tech">
                 <div class="gallery-grid">
-                    <div class="item gallery_large">
+                    <div class="item gallery_large mobile_none">
                         <img src="./img/homegallery_img1.png" alt="">
                     </div>
-                    <div class="item gallery_small">
+                    <div class="item gallery_small mobile_none">
                         <img src="./img/homegallery_img2.png" alt="">
                     </div>
-                    <div class="item gallery_small">
+                    <div class="item gallery_small mobile_none">
                         <img src="./img/homegallery_img3.png" alt="">
                     </div>
-                    <div class="item gallery_small">
+                    <div class="item gallery_small mobile_none">
                         <img src="./img/homegallery_img4.png" alt="">
                     </div>
-                    <div class="item gallery_small">
+                    <div class="item gallery_small mobile_none">
                         <img src="./img/homegallery_img5.png" alt="">
                     </div>
-                    <div class="item gallery_large">
+                    <div class="item gallery_large mobile_none">
                         <img src="./img/homegallery_img6.png" alt="">
+                    </div>
+                    <!-- Mobile -->
+                    <div class="item desktop_none">
+                        <img src="./img/homegal_img1mob.png" alt="">
+                    </div>
+                    <div class="item desktop_none">
+                        <img src="./img/homegal_img2mob.png" alt="">
+                    </div>
+                    <div class="item desktop_none">
+                        <img src="./img/homegal_img3mob.png" alt="">
+                    </div>
+                    <div class="item desktop_none">
+                        <img src="./img/homegal_img4mob.png" alt="">
                     </div>
                 </div>
             </div>
             <!-- Abstract -->
             <div class="tab-pane fade" id="abstract">
                 <div class="gallery-grid">
-                    <div class="item gallery_large">
+                    <div class="item gallery_large mobile_none">
                         <img src="./img/homegallery_img1.png" alt="">
                     </div>
-                    <div class="item gallery_small">
+                    <div class="item gallery_small mobile_none">
                         <img src="./img/homegallery_img2.png" alt="">
                     </div>
-                    <div class="item gallery_small">
+                    <div class="item gallery_small mobile_none">
                         <img src="./img/homegallery_img3.png" alt="">
                     </div>
-                    <div class="item gallery_small">
+                    <div class="item gallery_small mobile_none">
                         <img src="./img/homegallery_img4.png" alt="">
                     </div>
-                    <div class="item gallery_small">
+                    <div class="item gallery_small mobile_none">
                         <img src="./img/homegallery_img5.png" alt="">
                     </div>
-                    <div class="item gallery_large">
+                    <div class="item gallery_large mobile_none">
                         <img src="./img/homegallery_img6.png" alt="">
+                    </div>
+                    <!-- Mobile -->
+                    <div class="item desktop_none">
+                        <img src="./img/homegal_img1mob.png" alt="">
+                    </div>
+                    <div class="item desktop_none">
+                        <img src="./img/homegal_img2mob.png" alt="">
+                    </div>
+                    <div class="item desktop_none">
+                        <img src="./img/homegal_img3mob.png" alt="">
+                    </div>
+                    <div class="item desktop_none">
+                        <img src="./img/homegal_img4mob.png" alt="">
                     </div>
                 </div>
             </div>
@@ -191,13 +243,14 @@
  </section>
 <!-- Home S3 End -->
 
-<img class="w-100" src="./img/wave1.png">
+<img class="w-100 mobile_none" src="./img/wave1.png">
+<img class="w-100 desktop_none" src="./img/wave1mob.png">
 <!-- Home S4 Start -->
 <section class="home_s4">
     <div class="home_c4 container">
         <div class="home_s4top">
-            <h2 class="home_s4title">Frequently asked questions</h2>
-            <p class="home_s4subtitle">Everything you need to know about the product and billing.<br>
+            <h2 class="home_s4title home_s4titlemain">Frequently asked questions</h2>
+            <p class="home_s4subtitle home_s4subtitlemain">Everything you need to know about the product and billing.<br>
             Can’t find the answer you’re looking for? Please chat to our friendly team.</p>
         </div>
         <div class="mobile_none">
@@ -232,6 +285,94 @@
                 </div>
             </div>
         </div>
+        <div class="desktop_none">
+            <div class="accordion home_s4mob" id="faqAccordion">
+                <!-- Item -->
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq1">
+                            <span>What Is Lorem Ipsum?</span>
+                            <img src="./img/arrow-down.svg" class="faq-arrow" alt="">
+                        </button>
+                    </h2>
+                    <div id="faq1" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                            Morem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                        </div>
+                    </div>
+                </div>
+                <!-- Item -->
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq2">
+                            <span>What Is Lorem Ipsum?</span>
+                            <img src="./img/arrow-down.svg" class="faq-arrow" alt="">
+                        </button>
+                    </h2>
+                    <div id="faq2" class="accordion-collapse collapse show" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                            Morem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                        </div>
+                    </div>
+                </div>
+                <!-- Item -->
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq3">
+                            <span>What Is Lorem Ipsum?</span>
+                            <img src="./img/arrow-down.svg" class="faq-arrow" alt="">
+                        </button>
+                    </h2>
+                    <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                            Morem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                        </div>
+                    </div>
+                </div>
+                <!-- Item -->
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq4">
+                            <span>What Is Lorem Ipsum?</span>
+                            <img src="./img/arrow-down.svg" class="faq-arrow" alt="">
+                        </button>
+                    </h2>
+                    <div id="faq4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                            Morem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                        </div>
+                    </div>
+                </div>
+                <!-- Item -->
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq5">
+                            <span>What Is Lorem Ipsum?</span>
+                            <img src="./img/arrow-down.svg" class="faq-arrow" alt="">
+                        </button>
+                    </h2>
+                    <div id="faq5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                            Morem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                        </div>
+                    </div>
+                </div>
+                <!-- Item -->
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq6">
+                            <span>What Is Lorem Ipsum?</span>
+                            <img src="./img/arrow-down.svg" class="faq-arrow" alt="">
+                        </button>
+                    </h2>
+                    <div id="faq6" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                            Morem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="home_s4bottom">
             <h4 class="home_s4bottomtitle">Still have questions?<h4>
             <button type="button" class="btn home_s3btn">View more FAQs</button>
@@ -239,7 +380,8 @@
     </div>
 </section>
 <!-- Home S4 End -->
-<img class="w-100" src="./img/wave2.png">
+<img class="w-100 mobile_none" src="./img/wave2.png">
+<img class="w-100 desktop_none" src="./img/wave2mob.png">
 
 <!-- Home S5 Start -->
  <section class="home_s5">
