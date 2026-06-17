@@ -96,11 +96,7 @@
                   <a class="nav-link" href="pricing.php">Pricing & Perks</a>
                 </li>
                 <li class="nav-item">
-<<<<<<< HEAD
-                  <a class="nav-link" href="about.php">About</a>
-=======
                   <a class="nav-link" href="./aboutus.php">About</a>
->>>>>>> rahul
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="faq.php">FAQ’s</a>
