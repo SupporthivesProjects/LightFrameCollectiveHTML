@@ -508,7 +508,7 @@
     background: var(--White, #FFF);
     box-shadow: 0 1.852px 3.148px 0 rgba(0, 0, 0, 0.02), 0 4px 7px 0 rgba(0, 0, 0, 0.07);
 }
-.search_img{
+.rsearch_img{
     position: absolute;
     top: 50%;
     left: 18px;
