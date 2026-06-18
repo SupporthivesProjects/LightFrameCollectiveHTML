@@ -37,10 +37,10 @@
                         <button type="button" class="btn abt_searchbtn home_searchbtn"><img src="./img/searchwhite.svg">Search</button>
                     </div>
                     <div class="mobile_none">
-                        <p class="home_s1bottominbottom"><img src="./img/home_S1shield.svg">Curated, royalty-free images<span class="home_s1dot"></span>High resolution<span class="home_s1dot"></span>Commercial use ready</p>
+                        <p class="home_s1bottominbottom"><img src="./img/home_s1shield.svg">Curated, royalty-free images<span class="home_s1dot"></span>High resolution<span class="home_s1dot"></span>Commercial use ready</p>
                     </div>
                     <div class="desktop_none">
-                        <p class="home_s1bottominbottom"><img src="./img/home_S1shield.svg">Curated, royalty-free images</p>
+                        <p class="home_s1bottominbottom"><img src="./img/home_s1shield.svg">Curated, royalty-free images</p>
                     </div>
                 </div>
             </div>
