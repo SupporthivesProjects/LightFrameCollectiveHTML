@@ -35,6 +35,7 @@
     background: var(--White, #FFF);
     margin-top: 262px;
     margin-left: 56px;
+    margin-bottom: 262px;
 }
 
 .contact_heading {
