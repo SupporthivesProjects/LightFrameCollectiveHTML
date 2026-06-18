@@ -102,7 +102,7 @@
                   <a class="nav-link" href="faq.php">FAQ’s</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="contact.php">Contact Us</a>
+                  <a class="nav-link" href="contact_us.php">Contact Us</a>
                 </li>
               </ul>
               <div class="d-flex right-side" >
